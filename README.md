@@ -1,8 +1,8 @@
 ## Oiii eu sou a Wagner Teixeira, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/wagnerteixeiratdr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerTeixeiratdr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerTeixeira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerTeixeiratdr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerTeixeira&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wagner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,10 @@
   <img align="center" alt="Wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wagner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Wagner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- </div>
+  <img align="center" alt="Wagner-Mysql" height="30" width="40" src="https://https://www.svgrepo.com/show/303251/mysql-logo.svg">
+                
+  
+  </div>
   
   ##
  
