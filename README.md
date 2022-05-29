@@ -11,14 +11,14 @@
   <img align="center" alt="Wagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wagner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <img align="right" alt="Wagner-eu" height="230" width="230" src="https://media.discordapp.net/attachments/978286851989307505/980525342978617484/sticker.png?width=468&height=468">
  </div>
   
   
   ##
  
 <div> 
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e82a55ebe2687b443e8ba067eb4aced3.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"</a>
+  
   <a href="https://www.facebook.com/wagner.teixeira.9275" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wagner_teixeira_tdr/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/wagnerteixeirarico" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
