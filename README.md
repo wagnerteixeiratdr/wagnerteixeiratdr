@@ -11,17 +11,20 @@
   <img align="center" alt="Wagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wagner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   
+ 
  </div>
+  
   
   ##
  
 <div> 
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e82a55ebe2687b443e8ba067eb4aced3.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"</a>
   <a href="https://www.facebook.com/wagner.teixeira.9275" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/wagner_teixeira_tdr/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/wagnerteixeirarico" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatowagnerteixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wagnerteixeira-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV0PtHmRtRXqj8yM0ElJK9g%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  
   ![Snake animation](https://github.com/wagnerteixeiratdr/wagnerteixeiratdr/blob/output/github-contribution-grid-snake.svg)
  
