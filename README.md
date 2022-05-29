@@ -11,7 +11,7 @@
   <img align="center" alt="Wagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wagner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Wagner-eu" height="230" width="230" src="https://media.discordapp.net/attachments/978286851989307505/980525342978617484/sticker.png?width=468&height=468">
+  <img align="right" alt="Wagner-eu" height="200" width="200" src="https://media.discordapp.net/attachments/978286851989307505/980525342978617484/sticker.png?width=468&height=468">
  </div>
   
   
