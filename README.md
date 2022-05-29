@@ -1,8 +1,8 @@
 ## Oiii eu sou a Wagner Teixeira, estudante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/wagnerteixeiratdr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerTeixeiratdr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerTeixeira&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WagnerTeixeiratdr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerTeixeira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wagner-mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
